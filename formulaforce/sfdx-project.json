@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "source/formulaforce",
+      "default": true
+    }
+  ],
+  "name": "formulaforce",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
