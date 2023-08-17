@@ -5,28 +5,20 @@
       "default": true
     },
     {
-      "path": "force-app",
+      "path": "source/formulaforce",
       "package": "FormulaForce App",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": "FormulaForce App"
-    },
-    {
-      "path": "force-app",
-      "package": "MyUnlockedPackage",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
-      "default": false,
-      "versionDescription": ""
     }
   ],
-  "namespace": "",
+  "namespace": "fforcejd",
   "name": "formulaforce",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "57.0",
   "packageAliases": {
-    "FormulaForce App": "0HoHn0000008OJ3KAM",
-    "MyUnlockedPackage": "0HoHn0000008OJ8KAM"
+    "FormulaForce App": "0HoHn0000008OJDKA2",
+    "FormulaForce App@0.1.0-1": "04tHn000001Et9ZIAS"
   }
 }
